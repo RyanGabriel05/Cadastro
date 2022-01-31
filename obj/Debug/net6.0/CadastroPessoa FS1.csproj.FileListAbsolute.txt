@@ -1,0 +1,15 @@
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\bin\Debug\net6.0\CadastroPessoa FS1.exe
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\bin\Debug\net6.0\CadastroPessoa FS1.deps.json
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\bin\Debug\net6.0\CadastroPessoa FS1.runtimeconfig.json
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\bin\Debug\net6.0\CadastroPessoa FS1.dll
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\bin\Debug\net6.0\ref\CadastroPessoa FS1.dll
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\bin\Debug\net6.0\CadastroPessoa FS1.pdb
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.csproj.AssemblyReference.cache
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.AssemblyInfoInputs.cache
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.AssemblyInfo.cs
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.csproj.CoreCompileInputs.cache
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.dll
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\ref\CadastroPessoa FS1.dll
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.pdb
+C:\Users\Ryan & Kerollyn\Desktop\CadastroPessoa FS1\obj\Debug\net6.0\CadastroPessoa FS1.genruntimeconfig.cache
