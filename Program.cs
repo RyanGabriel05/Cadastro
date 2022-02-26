@@ -31,3 +31,26 @@ Rendimento: {novaPf.rendimento}
 Endereço: {novaPf.endereco.logradouro}, {novaPf.endereco.numero}, {novaPf.endereco.complemento}
 Maior de idade: {metodoPf.ValidarDataNascimento(novaPf.dataNascimento)}
 ");
+
+PessoaJuridica metodoPj = new PessoaJuridica();
+
+PessoaJuridica novaPj = new PessoaJuridica();
+Endereco novoEndPj = new Endereco();
+
+novaPj.nome = "Nome Pj";
+novaPj.cnpj = "00.000.000/0001-00";
+novaPj.razaoSocial = "Razão Social Pj";
+novaPj.rendimento = 8000.5f;
+
+novoEndPj.logradouro = "Maria Rodrigues Machado";
+novoEndPj.numero = 16;
+novoEndPj.complemento = "casa";
+novoEndPj.endComercial = true;
+
+novaPj.endereco = novoEndPj;
+
+Console.WriteLine(@$"
+Nome: {novaPj.nome}
+Razão Social: {novaPj.razaoSocial}
+CNPJ: {novaPj.cnpj}
+CNPJ válido: {metodoPj.ValidarCnpj(novaPj.cnpj)}");
