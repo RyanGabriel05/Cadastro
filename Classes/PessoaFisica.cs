@@ -35,7 +35,7 @@ namespace CadastroPessoa_FS1.Classes
 
                 double anos = (dataAtual - dataConvertida).TotalDays / 365;
 
-                if (anos >= 18)
+                if (anos >= 18 && anos < 120)
                 {
                     return true;
                 }           
